@@ -27,7 +27,7 @@ $ make
 
 # Once compiled To execute it, and within the build folder:
 ```
-$ cd pervasive-exec-rabbitmq
-$ ./pervasive-exec-rabbitmq
+$ cd executableApp
+$ ./executableApp
 ```
 
