@@ -17,6 +17,7 @@ $ sudo apt-get install doxygen
 ```
 # To compile it, from the root directory:
 ```
+$ git clone --recurse-submodules https://github.com/DimasVeliz/rabbitMQSampleCpp.git
 $ cd amqpGhFixed/rabbitmq-c
 $ sudo make install
 $ cd ../../
