@@ -1,3 +1,3 @@
-[submodule "ampqGhFixed"]
-	path = ampqGhFixed
-	url = https://github.com/DimasVeliz/ampqGhFixed.git
+[submodule "amqpGhFixed"]
+	path = amqpGhFixed
+	url = https://github.com/DimasVeliz/amqpGhFixed.git
