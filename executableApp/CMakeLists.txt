@@ -1,3 +1,3 @@
-add_executable(pervasive-exec-rabbitmq main.cpp)
+add_executable(executableApp main.cpp)
 
-target_link_libraries(pervasive-exec-rabbitmq PRIVATE amqpManager)
+target_link_libraries(executableApp PRIVATE amqpManager)
