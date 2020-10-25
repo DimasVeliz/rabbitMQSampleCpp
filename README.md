@@ -31,3 +31,6 @@ $ cd executableApp
 $ ./executableApp
 ```
 
+# To see the executable app running (in the case you have a docker image and python), open a new terminal and do:
+```$ sudo docker run -d --hostname localhost --net=host --name rabbit-tox rabbitmq:3```
+```$python3 emitter.py``
